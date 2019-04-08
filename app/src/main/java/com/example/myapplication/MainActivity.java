@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hello");
         System.out.println("hej");
         System.out.println("hej12");
-        System.out.println("merge1");
 
     }
 }
